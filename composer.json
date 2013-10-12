@@ -1,0 +1,19 @@
+{
+    "name": "symfony-cmf/standard-lib",
+    "description": "CMF Oriented Traits and Interfaces",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Leech",
+            "email": "daniel@dantleech.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Symfony\\Cmf\\Standard\\": "src"
+        }
+    }
+}
